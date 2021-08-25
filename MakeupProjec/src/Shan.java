@@ -1,4 +1,4 @@
 
-public class Shang {
+public class Shan {
 
 }
