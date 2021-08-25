@@ -5,6 +5,7 @@ public class Orders {
 	private int u_id;
 	private int s_id;
 	private int p_id;
+	private int a_id;
 	private String a_address;
 	private String a_tel;
 	private String a_name;
